@@ -15,5 +15,5 @@ jobs:
         run: echo Building Site
       
       - name: Install
-        run: ruby
+        run: ruby -v
       
