@@ -16,7 +16,7 @@ jobs:
       
       - name: Install
         run: |
-          gem install asciidoctor-pdf
+          sudo gem install asciidoctor-pdf
           sudo apt install -y asciidoctor
         
       - name: Build pdf
