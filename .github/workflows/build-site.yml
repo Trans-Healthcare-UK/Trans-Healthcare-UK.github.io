@@ -15,5 +15,13 @@ jobs:
         run: echo Building Site
       
       - name: Install
-        run: ruby -v
+        run: |
+          gem install asciidoctor-pdf
+          sudo apt install -y asciidoctor
+        
+      - name: Build pdf
+        run: asciidoctor src/index.adoc -o pdf/out.pdf -b pdf -r asciidoctor-pdf
+      
+      - name: Build html
+        run: asciidoctor src/index.adoc -o index.html
       
