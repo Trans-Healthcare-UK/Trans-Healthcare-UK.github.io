@@ -1,0 +1,19 @@
+name: 'Build site'
+
+on: [push]
+
+jobs:
+  
+  build:
+    
+    runs-on: ubuntu-latest
+    steps: 
+      
+      - uses: actions/checkout@v3
+      
+      - name: Initialise
+        run: echo Building Site
+      
+      - name: Install
+        run: ruby
+      
