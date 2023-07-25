@@ -1,3 +1,6 @@
-== Test
+= Trans Healthcare UK Guide
+The Team <trans-healthcare-uk@proton.me>
+:description: An attempt at a comprehensive recourse on trans healthcare and how to access it in the UK
+:toc: left
 
-Test text **bold**
+include::General/intro.adoc
