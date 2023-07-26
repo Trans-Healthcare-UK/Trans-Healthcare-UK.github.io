@@ -25,6 +25,16 @@ include::Fem/intro.adoc[]
 
 include::Fem/Hormones/intro.adoc[]
 
+include::Fem/Hormones/estrogen.adoc[]
+
+include::Fem/Hormones/blockers.adoc[]
+
+include::Fem/Hormones/prog.adoc[]
+
+include::Fem/Hormones/hair.adoc[]
+
+include::Fem/Hormones/nonstandard.adoc[]
+
 
 //Endmatter
 
