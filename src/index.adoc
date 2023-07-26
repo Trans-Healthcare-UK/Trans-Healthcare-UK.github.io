@@ -4,3 +4,12 @@ The Team <trans-healthcare-uk@proton.me>
 :toc: left
 
 include::General/preamble.adoc[]
+include::General/politics.adoc[]
+include::General/usage.adoc[]
+include::General/contributing.adoc[]
+
+include::Masc/intro.adoc[]
+
+include::Fem/intro.adoc[]
+
+include::Endmatter/glossary.adoc[]
