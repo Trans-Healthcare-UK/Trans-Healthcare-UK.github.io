@@ -11,5 +11,6 @@ include::General/contributing.adoc[]
 include::Masc/intro.adoc[]
 
 include::Fem/intro.adoc[]
+include::Fem/hormones.adoc[]
 
 include::Endmatter/glossary.adoc[]
