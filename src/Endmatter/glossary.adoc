@@ -2,5 +2,8 @@
 == Terminology
 [[AFAB]]AFAB:: _Assigned Female At Birth_ - someone born with typical female secondary sex characteristics assumed at birth to be female.
 [[AMAB]]AMAB:: _Assigned Male At Birth_ - someone born with typical male secondary sex characteristics assumed at birth to be male.
+[[estrogen]]Estrogen:: The primary female sex hormone.
+[[HRT]]HRT:: The process of altering the levels of hormones in the body.
+[[testosterone]]Testosterone:: The primary male sex hormone.
 [[transfeminine]]Transfeminine:: Someone <<AMAB,assigned male at birth>> who is taking changes to present more feminine.
 [[transmasculine]]Transmasculine:: Somone <<AFAB,assigned female at birth>> who is taking changes to present more masculine.

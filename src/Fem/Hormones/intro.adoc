@@ -1,0 +1,53 @@
+=== Hormones
+
+The majority of people undergoing a medical feminising transition will be attempting to alter the levels of various hormones in their body, or how the body responds to various hormones. The most important of these are <<testosterone>> and <<estrogen>>. <<HRT>>, or hormone replacement therapy, is the process of changing the levels of these hormones in the body. For most transfems, the goal of HRT is to provide estrogen and testosterone levels roughly equivalent to those seen in cis women. This is what changes your secondary sex characteristics to become more feminine. See the table below for a list of changes and their rough timescales (permanency refers to whether changes will be reversed if HRT is stopped):
+
+// https://academic-oup-com.ezproxy-prd.bodleian.ox.ac.uk/view-large/99603390
+
+.Feminising HRT Timescales
+[%autowidth]
+
+|===
+|Change | Onset Time | Time to Maximum Extent | Permanency
+
+|Breast growth| 3-6 mo | 2-3y | _Reversible through surgery_ footnote:[see top surgey] 
+//TODO working link ^
+
+|Body fat redistribution | 3-6 mo | 2-3y | _Reversible_
+
+|Decrease in muscle mass | 3-6 mo |1-2y| _Reversible_
+
+|Softening of skin| 3-6 mo | ? | _Reversible_
+
+|Decreased skin oiliness and acne| 3-6 mo | ? | _Reversible_
+
+|Decreased sex drive | 1-3 mo | 3-6 mo | _Reversible_
+
+|Decreased spontaneous erections | 1-3 mo | 3-6 mo | _Reversible_
+
+|Decreased testicle volume | 3-6 mo |2-3y | _Reversible_
+
+|Decreased sperm production and fertility | ? | >3y| _Likely permanent_
+
+|Decreased body/facial hairfootnote:[Complete removal of facial and body hair does not occur from HRT, methods will be discussed later]| 6-12 mo | >3y | _Reversible_
+//TODO working link ^
+
+|Male pattern baldness| _limited to no regrowth_ footnote:[put some info here], loss stops after 1-3 mo | 1-2 y | _Reversible_
+//TODO research - https://www.wpath.org/media/cms/Documents/Web%20Transfer/SOC/Standards%20of%20Care%20V7%20-%202011%20WPATH.pdf
+
+|Feminine pelvisfootnote:[Only when the individual has not gone through masculising puberty] | ? | >2y | _Permanent_
+//https://pubmed.ncbi.nlm.nih.gov/33507568/
+
+|Mood changes| 2| _unkown_ | _likely reversible_
+//https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5366074/
+
+|Decreased prostate size 3+| _unkown_
+
+
+|Height reduction 3+| _limited evidence of any height reduction_
+
+|Decreased penis size 3+| _conflicting evidence on if this occurs_
+
+|Voice changes 3+| _does not occur through HRT - see voice training_
+//TODO add link
+|===
