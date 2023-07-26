@@ -3,14 +3,26 @@ The Team <trans-healthcare-uk@proton.me>
 :description: An attempt at a comprehensive recourse on trans healthcare and how to access it in the UK
 :toc: left
 
+//General
+
 include::General/preamble.adoc[]
+
 include::General/politics.adoc[]
+
 include::General/usage.adoc[]
+
 include::General/contributing.adoc[]
+
+//Masc
 
 include::Masc/intro.adoc[]
 
+//Fem
+
 include::Fem/intro.adoc[]
+
 include::Fem/hormones.adoc[]
+
+//Endmatter
 
 include::Endmatter/glossary.adoc[]
