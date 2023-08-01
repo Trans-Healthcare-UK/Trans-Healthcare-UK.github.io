@@ -21,9 +21,10 @@ jobs:
         run: |
           sudo gem install asciidoctor-pdf
           sudo apt install -y asciidoctor
+          sudo gem install asciidoctor-bibtex
         
       - name: Build pdf
-        run: asciidoctor src/index.adoc -o pdf/out.pdf -b pdf -r asciidoctor-pdf
+        run: asciidoctor src/index.adoc -o pdf/out.pdf -b pdf -r asciidoctor-pdf  -r asciidoctor-bibtex
       
       - name: Build html
         run: asciidoctor src/index.adoc -o index.html
