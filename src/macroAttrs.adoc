@@ -1,1 +1,1 @@
-:uk-disclaimer: hi
+:uk-disclaimer: Macro/test.adoc[]
