@@ -7,9 +7,9 @@ include::macroAttrs.adoc[]
 
 include::General/preamble.adoc[]
 
-include::General/politics.adoc[]
+include::General/mission.adoc[]
 
-include::General/usage.adoc[]
+include::General/howTo.adoc[]
 
 include::General/contributing.adoc[]
 
