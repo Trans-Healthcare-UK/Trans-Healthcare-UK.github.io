@@ -1,6 +1,6 @@
 === Hormones
 
-The majority of people undergoing a medical feminising transition will be attempting to alter the levels of various hormones in their body, or how the body responds to various hormones. The most important of these are <<testosterone>> and <<estrogen>>. <<HRT>>, or hormone replacement therapy, is the process of changing the levels of these hormones in the body. For most transfems, the goal of HRT is to provide estrogen and testosterone levels roughly equivalent to those seen in cis women. This is what changes your secondary sex characteristics to become more feminine. See the table below for a list of changes and their rough timescales, assuming a broadly standard feminising transition (permanency refers to whether changes will be reversed if HRT is stopped):
+The majority of people undergoing a medical feminising transition will be attempting to alter the levels of various hormones in their body, or how the body responds to various hormones. The most important of these are <<testosterone>> and <<estrogen>>. <<HRT>>, or hormone replacement therapy, is the process of changing the levels of these hormones in the body. For most transfems, the goal of HRT is to provide estrogen and testosterone levels roughly equivalent to those seen in cis women - the vast majority of cis people have at least some estrogen and some testosterone in their body. This is what changes your secondary sex characteristics to become more feminine. See the table below for a list of changes and their rough timescales, assuming a broadly standard feminising transition (permanency refers to whether changes will be reversed if HRT is stopped):
 
 // https://academic-oup-com.ezproxy-prd.bodleian.ox.ac.uk/view-large/99603390
 
@@ -54,3 +54,15 @@ https://pubmed.ncbi.nlm.nih.gov/33507568/
 |Voice changes 3+| _does not occur through HRT - see voice training_
 //TODO add link
 |===
+
+===== Goals
+
+As previously mentioned, a standard feminising transition will attempt to provide the individual with hormone levels approximately equivalent to that of a cis women.
+
+//TODO add data on targets
+
+
+====== Blood tests
+include::Macros/uk.adoc[]
+
+===== Approaches
