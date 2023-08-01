@@ -1,5 +1,0 @@
-[WARNING]
-.UK specific information
-****
-The information in this section is specific to the UK and may not apply elsewhere. Medical systems vary wildly across the world, if you are not from the UK this section is unlikely to be relevant to you - please seek advice from those in your country.
-****

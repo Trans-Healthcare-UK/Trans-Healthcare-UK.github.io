@@ -63,6 +63,6 @@ As previously mentioned, a standard feminising transition will attempt to provid
 
 
 ====== Blood tests
-include::Macros/uk.adoc[]
+{uk-disclaimer}
 
 ===== Approaches
