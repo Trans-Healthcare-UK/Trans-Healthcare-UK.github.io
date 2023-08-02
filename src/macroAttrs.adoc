@@ -1,1 +1,1 @@
-:uk-disclaimer: Macro/test.adoc[]
+:uk-disclaimer: include::Macro/test.adoc[]
