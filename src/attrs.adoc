@@ -2,3 +2,4 @@
 :toc: left
 :table-caption!:
 :table-stripes: even
+:macro-location: {{root}/src/Macros/}

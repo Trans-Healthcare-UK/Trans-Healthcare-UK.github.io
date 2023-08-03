@@ -1,7 +1,6 @@
 = Trans Healthcare UK Guide
 The Team <trans-healthcare-uk@proton.me>
 include::attrs.adoc[]
-include::macroAttrs.adoc[]
 
 //General
 

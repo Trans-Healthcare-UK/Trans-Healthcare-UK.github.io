@@ -67,6 +67,7 @@ As previously mentioned, a standard feminising transition will attempt to provid
 
 {root}
 include::{root}/src/Macros/test.adoc[]
+include::{macro-location}uk-disclaimer.adoc[]
 
 [WARNING]
 .UK specific information
