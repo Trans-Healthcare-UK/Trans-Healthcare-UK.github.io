@@ -27,7 +27,7 @@ jobs:
         run: asciidoctor src/index.adoc -o pdf/out.pdf -b pdf -r asciidoctor-pdf  -r asciidoctor-bibtex -a root `pwd`
       
       - name: Build html
-        run: asciidoctor src/index.adoc -o index.html -a root `pwd`
+        run: asciidoctor src/index.adoc -o index.html -a root=`pwd`
       
       - name: Push changes
         run: |
