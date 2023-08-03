@@ -24,10 +24,10 @@ jobs:
           sudo gem install asciidoctor-bibtex
         
       - name: Build pdf
-        run: asciidoctor src/index.adoc -o pdf/out.pdf -b pdf -r asciidoctor-pdf  -r asciidoctor-bibtex
+        run: asciidoctor src/index.adoc -o pdf/out.pdf -b pdf -r asciidoctor-pdf  -r asciidoctor-bibtex -a root `pwd`
       
       - name: Build html
-        run: asciidoctor src/index.adoc -o index.html
+        run: asciidoctor src/index.adoc -o index.html -a root `pwd`
       
       - name: Push changes
         run: |
