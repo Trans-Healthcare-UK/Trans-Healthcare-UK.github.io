@@ -51,7 +51,7 @@ Injectable estradiol comes in different forms, with each form releasing the estr
 - *Estradiol Enanthate's (EEn):* half-life ~5 days, inject every 7-10 days 
 
 
-//TODO explain IM vs SubQ
+//TODO IM vs SubQ
 
 //TODO explain needle safety no reuse etc
 
@@ -111,3 +111,72 @@ Taking pills <<sublingually>> or <<buccally>> increases their potency and in doi
 Birth control pills tend to contain ethinylestradiol, which is an estrogen, just not _the_ estrogen you want. It's non-bioidentical, meaning that it merely mimics the effects of estrogen in the body. These have a signficantly increased blood clot risk compared to bioidentical estrogens. *Do not take them.* Another non-bioidentical estrogren is conjugated estrogen - brand name Preamarin, which carries with it similar risks. *Do not take this either.* The only possible benefit from taking non-bioidentical applies only to people who had blocked some of their puberty - where the only measured effect is a small but statistically significant decrease in height (~2.1cm) when 100-200µg ethinylestradiol (significantly more than in a standard birth control pill but without progestrin) compared to standard estradiol treatment.
 
 ===== Dosing
+
+Everyone is different, and everyone's body reacts differently to hormones. If you end up taking dosages significantly different to the ones suggested below, but your hormone levels are good, then you're doing the right thing. Keep testing your bloods and adjusting your dosages depending on the results until you're happy with where you're at. However, they should be a reasonable starting dose. 
+
+Note that if you go through either the NHS or a private healthcare provider, they will take care of your dosages - but feel comfortable questioning the dosages they give you if they seem inappropriate (the NHS especially is known for giving low dosages, and prescribing hair loss drugs instead of actual testosterone blockers). If your care provider is actively denying you the proper care, consider switching care providers (and remember you can turn pills into stickies to increase efficiacy). 
+
+Note also that your dosage will be different if you've had an orchiectomy/SRS as if you don't have testes you will produce very little testosterone and so this will not need to be supressed.
+
+//TODO explain pill cutting
+
+====== Monotherapy (no <<orchiectomy>>)
+
+*One* of:
+
+- 4mg EV injection every 5 days
+
+- 5mg EC injection every 7 days
+
+- 7mg EEn injection every 10 days
+
+- 2mg Estrogel twice a day
+ 
+- 200μg Estradiol patch changed each week 
+
+
+====== Estrogen + Anti-androgen (no orchiectomy)
+
+*One* of:
+
+- 1.5mg Estrogel twice a day 
+
+- 200μg Estradiol patch changed each week 
+
+- 0.4mg Estradiol sticky once a day 
+
+- 1mg Estradiol pill taken sublingually/bucally three times a day
+
+- Other Estradiol source as prescribed/directed by producer
+
+- 3mg Estradiol pill taken orally (swallowed) twice per day
+
+Plus *one* of:
+
+- 6.25mg Cyproterone Acetate once a day (orally)
+
+- 50mg Bicalutamide twice a day (orally)
+
+- 300μg Buserelin three times a day (sprayed in nostril)
+
+- Other GnRH antagonist as prescribed
+
+- 50μg Spironolactone twice a day (orally)
+
+====== Monotherapy (post orchiectomy)
+
+*One* of:
+
+- 2mg EV injection every 5 days
+
+- 2mg EC injection every 7 days
+
+- 3mg EEn injection every 10 days
+
+- 1.5mg Estrogel twice daily
+
+- 100μg Estradiol patch, changed weekly
+
+- 0.5mg Estradiol pill sublingually/buccally three times a day
+
+- 2mg Estradiol pill swallowed twice a day
