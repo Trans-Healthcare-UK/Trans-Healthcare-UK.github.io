@@ -11,7 +11,7 @@ TIP: We would recommend injections or gel as the best routes if possible. If you
 For more information of what each sourcing method means see <<sourcing>>. Our recommendations are subjective and do not necessairily align with so-called clinical "best practices".
 
 .Comparison Between Ways of Taking Estrogen
-[cols="<"]
+[cols="<,^,^,^,^,^,^,^,^,<"]
 
 |=== 
 .2+| Method .2+| Frequency 5+| Accessibility .2+| Pros .2+| Cons .2+| Our Recommendations
