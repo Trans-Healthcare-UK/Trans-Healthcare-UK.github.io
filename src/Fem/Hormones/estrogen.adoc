@@ -16,7 +16,7 @@ For more information of what each sourcing method means see <<sourcing>>. Our re
 |=== 
 .2+| Method .2+| Frequency 5+| Accessibility .2+| Pros .2+| Cons .2+| Our Recommendations
 
-|*NHS* | *Private (UK)* | *Private (abroad)* | *Grey Market* | *Homebrewers*
+|||*NHS* | *Private (UK)* | *Private (abroad)* | *Grey Market* | *Homebrewers*
 
 |Injectables | Every 5-10 days | ❌ | ❌ | ✔️ | ✔️ | ✔️ | Taken less frequently, best route for monotherapy | Can lead to bruises and pain (very small risk of more serious complications), injections may be difficult for some people, production needs to be more sterile than for gels | _recommended_ 
 
