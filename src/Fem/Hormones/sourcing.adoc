@@ -4,6 +4,8 @@
 
 ===== NHS
 
+//TODO note guidelines about BMI <40
+
 ===== Private
 
 ===== Grey Market

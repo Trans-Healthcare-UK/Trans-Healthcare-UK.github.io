@@ -98,6 +98,8 @@ When taking a test, ensure that you haven't taken any vitamin supplements in the
 
 //TODO what if no blood test
 
+//TODO side effects
+
 
 ==== Approaches
 
