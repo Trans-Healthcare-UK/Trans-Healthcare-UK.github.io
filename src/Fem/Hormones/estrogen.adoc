@@ -9,23 +9,23 @@ TIP: We would recommend injections or gel as the best routes if possible. If you
 //TODO summary table
 
 _For more information on each method, see below:_
+
 .Injectables
 [%collapsible]
-
 === 
 Injectable estradiol comes in different forms, with each form releasing the estradiol into your body at a different rate.
 ===
 
 .Gel
 [%collapsible]
-
 ===
-
 Estrogel is applied to the skin, and contains estradiol, an alchohol base to increase absorption and a thickener to provide a gel. It's generally applied to the skin once or twice a day. We'd recommend using estrogel in pump action bottles (like a soap dispenser) as this ensures consistent dosing - some <<DIY>> sources will provide estrogel in a tube which we would not recommend using as controlling dosages is harder. However, provided it is in a pump action bottle, homebrewed estrogel will be almost (sometimes entirely) identical to prescribed estrogen. 
 
 Estrogel is available through the NHS, private care, the grey market, and homebrewers.
 ===
-====== Patches
+
+.Patches
+
 
 ====== Solutions
 
