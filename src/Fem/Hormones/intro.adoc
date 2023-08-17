@@ -16,7 +16,7 @@ The majority of people undergoing a medical feminising transition will be attemp
 
 |Body fat redistribution | 3-6 mo | 2-3y | _Reversible_
 
-|Decrease in muscle mass | 3-6 mo |1-2y| _Reversible_
+|Decrease in muscle massfootnote:[Effect signifcantly reduced with regular strengthening and exercise] | 3-6 mo |1-2y| _Reversible_
 
 |Softening of skin| 3-6 mo | ? | _Reversible_
 
@@ -33,19 +33,18 @@ The majority of people undergoing a medical feminising transition will be attemp
 |Decreased body/facial hairfootnote:[Complete removal of facial and body hair does not occur from HRT, methods will be discussed later]| 6-12 mo | >3y | _Reversible_
 //TODO working link ^
 
-|Male pattern baldness| _limited to no regrowth_ footnote:[put some info here], loss stops after 1-3 mo | 1-2 y | _Reversible_
+|Male pattern baldness| _levels of regrowth vary_ footnote:[put some info here], loss stops after 1-3 mo | 1-2 y | _Reversible_
 //TODO research - https://www.wpath.org/media/cms/Documents/Web%20Transfer/SOC/Standards%20of%20Care%20V7%20-%202011%20WPATH.pdf
+// wpath says no, actual evidence says yes - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5367483/ 
+// also discuss hair transplants
 
 |Feminine pelvisfootnote:[Only when the individual has not gone through masculising puberty] | ? | >2y | _Permanent_
-//
-
-https://pubmed.ncbi.nlm.nih.gov/33507568/
+//https://pubmed.ncbi.nlm.nih.gov/33507568/
 
 |Mood changes| 2| _unkown_ | _likely reversible_
 //https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5366074/
 
 |Decreased prostate size 3+| _unkown_
-
 
 |Height reduction 3+| _limited evidence of any height reduction_
 
@@ -57,15 +56,17 @@ https://pubmed.ncbi.nlm.nih.gov/33507568/
 
 ===== Goals
 
-As previously mentioned, a standard feminising transition will attempt to provide the individual with hormone levels approximately equivalent to that of a cis women.
+As previously mentioned, a standard feminising transition will attempt to provide the individual with hormone levels approximately equivalent to that of a cis women. Everyone needs some testosterone and some estrogen in their system - and too much of either can be unhealthy. However, in the short term, the risks of abnormal hormone levels are low, and so don't panic if your levels are outside of the recommended ranges - simply adjust the doses you are on until they are. 
 
-//TODO add data on targets
+The target levels you want to aim for are:
 
+- *Testosterone (T):* 30 - 50 ng/dL
+- *Estradiol (E2):* 100 - 200 pg/mL
+
+To increase your testosterone levels, reduce your blocker dosage. To decrease your testosterone levels, increase your blocker dosage. To increase your estradiol levels, increase your estrogen dosage. To decrease your estradiol levels, decrease your estrogen dosage.
 
 ====== Blood tests
 
-// include::{root}/src/Macros/test.adoc[]
-include::{macro-location}uk-disclaimer.adoc[]
 
 [WARNING]
 .UK specific information
@@ -73,5 +74,11 @@ include::{macro-location}uk-disclaimer.adoc[]
 The information in this section is specific to the UK and may not apply elsewhere. Medical systems vary wildly across the world, if you are not from the UK this section is unlikely to be relevant to you - please seek advice from those in your country.
 ====
 
+It is useful (but not crucial) to get your blood levels checked before going on HRT to find your baseline. Your GP is supposed to offer you blood tests if you tell them that you are planning on DIYing HRT - but they may not. As a minimum, you want to test your T and E2 levels, but it may also be useful to get other tests (especially prolactin and liver function) to monitor any potential side effects of HRT - speak to a doctor if your results are outside of normal levels. See https://diyhrt.wiki/bloodtests[this list of potentially useful blood tests for more information.] If your GP says no, then private blood tests are available - and you want to find the same things as you'd find from your GP.
+
+When taking a test, ensure that you haven't taken any vitamin supplements in the previous three days or so, and take your blood tests at a <<trough>> - immeadiately before you take your hormones (this is especially important if you inject on a weekly or longer basis)
+
 
 ===== Approaches
+
+====== Estrogen

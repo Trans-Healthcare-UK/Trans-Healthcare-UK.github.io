@@ -2,6 +2,8 @@
 The Team <trans-healthcare-uk@proton.me>
 include::attrs.adoc[]
 
+//TODO set up functioning x-doc includes
+
 //General
 
 include::General/preamble.adoc[]
