@@ -65,13 +65,29 @@ The target levels you want to aim for are:
 
 To increase your testosterone levels, reduce your blocker dosage. To decrease your testosterone levels, increase your blocker dosage. To increase your estradiol levels, increase your estrogen dosage. To decrease your estradiol levels, decrease your estrogen dosage.
 
+====== How to alter your dosage to ensure you fall inside these ranges
+
+If you're taking both a testosterone blocker and estrogen:
+
+- To increase your testosterone levels, reduce your blocker dosage, or stop taking it entirely if you're already on a low dose.
+- To decrease your testosterone levels, increase your blocker or estrogen dosage. 
+- To increase your estradiol levels, increase your estrogen dosage. 
+- To decrease your estradiol levels, decrease your estrogen dosage.
+
+If you're only taking estrogen (<<monotherapy>>):
+
+- To increase your testosterone levels, consider decreasing your estrogen dose _if your estradiol levels are at the higher end of (or above) the target range_. If not, speak to your GP, you may have to take testosterone in addition to estrogen.
+- To decrease your testoterone levels, increase your estrogen dosage _unless your estradiol levels are already above, or almost above, the target range_. If so, consider taking a blocker.
+- To increase your estradiol levels, increase your estrogen dosage. 
+- To decrease your estradiol levels, decrease your estrogen dosage.
+
 ====== Blood tests
 
 
 [WARNING]
 .UK specific information
 ====
-The information in this section is specific to the UK and may not apply elsewhere. Medical systems vary wildly across the world, if you are not from the UK this section is unlikely to be relevant to you - please seek advice from those in your country.
+The information in this section is specific to the UK and may not apply elsewhere. Medical systems vary wildly across the world, if you are not from the UK not all of this section is likely to be relevant to you - please seek advice from those in your country.
 ====
 
 It is useful (but not crucial) to get your blood levels checked before going on HRT to find your baseline. Your GP is supposed to offer you blood tests if you tell them that you are planning on DIYing HRT - but they may not. As a minimum, you want to test your T and E2 levels, but it may also be useful to get other tests (especially prolactin and liver function) to monitor any potential side effects of HRT - speak to a doctor if your results are outside of normal levels. See https://diyhrt.wiki/bloodtests[this list of potentially useful blood tests for more information.] If your GP says no, then private blood tests are available - and you want to find the same things as you'd find from your GP.
@@ -81,4 +97,21 @@ When taking a test, ensure that you haven't taken any vitamin supplements in the
 
 ===== Approaches
 
+There are a variety of ways to reach the desired hormone levels, and generally consist of taking estrogen and sometimes a testosterone blocker. In high enough doses, estrogen is often successful in supressing testosterone levels to within the target range. This is called <<monotherapy>>.
+
 ====== Estrogen
+
+There are various approaches to taking estrogen. We would recommend injections or gel as the best routes if possible. If you have no choice but pills, we'd reccomend using the pills to produce stickies or taking sublingually or if this isn't possible taking sublingually. All these approaches mean the estrogen bypasses the liver, making for a safer _and_ more effective transition
+
+====== Injectables
+
+====== Gel
+
+====== Patches
+
+====== Implants
+
+====== Stickies
+
+====== Pills
+
