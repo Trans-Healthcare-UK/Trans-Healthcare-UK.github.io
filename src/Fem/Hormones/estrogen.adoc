@@ -19,8 +19,14 @@ Injectable estradiol comes in different forms, with each form releasing the estr
 .Click to reveal the answer
 [%collapsible]
 ====
-This is the answer.
+Injectable estradiol comes in different forms, with each form releasing the estradiol into your body at a different rate.
 ====
+
+.Injectables 
+[%collapsible]
+=== 
+Injectable estradiol comes in different forms, with each form releasing the estradiol into your body at a different rate.
+===
 
 .Gel
 [%collapsible]
