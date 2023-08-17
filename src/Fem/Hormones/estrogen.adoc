@@ -12,9 +12,9 @@ _For more information on each method, see below:_
 
 .Injectables
 [%collapsible]
-=== 
+==== 
 Injectable estradiol comes in different forms, with each form releasing the estradiol into your body at a different rate.
-===
+====
 
 .Click to reveal the answer
 [%collapsible]
@@ -24,9 +24,9 @@ Injectable estradiol comes in different forms, with each form releasing the estr
 
 .Injectables 
 [%collapsible]
-=== 
+==== 
 Injectable estradiol comes in different forms, with each form releasing the estradiol into your body at a different rate.
-===
+====
 
 .Gel
 [%collapsible]
@@ -48,7 +48,7 @@ Estrogel is available through the NHS, private care, the grey market, and homebr
 .Solutions
 [%collapsible]
 ===
-Solutions consist of estradiol and an alchohol base to increase absorption.
+Solutions consist of estradiol and an alchohol base to increase absorption. They are generally dropped onto the skin with an eyedropper, and are generally only available through homebrewers
 ===
 
 
