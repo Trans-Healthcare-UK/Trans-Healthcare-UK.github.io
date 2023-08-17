@@ -8,15 +8,52 @@ TIP: We would recommend injections or gel as the best routes if possible. If you
 
 //TODO summary table
 
+For more information of what each sourcing method means see <<sourcing>>. Our recommendations are subjective and do not necessairily align with so-called clinical "best practices".
+
+.Comparison Between Ways of Taking Estrogen
+[cols="<"]
+
+|=== 
+.2+| Method .2+| Frequency 5+| Accessibility .2+| Pros .2+| Cons .2+| Our Recommendations
+
+|*NHS* | *Private (UK)* | *Private (abroad)* | *Grey Market* | *Homebrewers*
+
+|Injectables | Every 5-10 days | ❌ | ❌ | ✔️ | ✔️ | ✔️ | Taken less frequently, best route for monotherapy | Can lead to bruises and pain (very small risk of more serious complications), injections may be difficult for some people, production needs to be more sterile than for gels | _recommended_ 
+
+|Gels | 1-2 times/day | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | Accessible, monotherapy still possible for some, easy to produce | Monotherapy possible for less than injectables, takes a couple of minutes to evaporate off each time taken | _recommended if injections aren't an option_
+
+|Patches | 1-2 times/week | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | Taken less frequently, monotherapy still possible for some | Monotherapy possible for less people than injectables, not available homebrewed | -
+
+|Solutions | ? | ❌ | ❌ | ❌ | ❌ | ✔️ | Potential to be cheaper to produce than gels | Sourcing potentially very difficult | - 
+
+|Implants | 2-4 times/year | ❌ | ❌ | ✔️ | ❌ | ❌ | Taken incredibly infrequently | Generally have to go abroad to access 2-4 times a year, each time requires surgical insertion | _not recommended unless you live abroad_
+
+|Stickies | 1-2 times/day | ❌ | ❌ | ❌ | ❌ | ✔️ | Very easy to produce in the home | Probably have to produce yourself, stuck in your mouth for an hour | - 
+
+|Pills (oral) | 1-2 times/day | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | - | Increased risk of side effects, no possibility of monotherapy | _not recommended_
+
+|Pills (sublingual/buccal) | 3-4 times/day | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | Safer than oral pills | May be inconvinient | -
+
+|===
+//TODO add colours to table
+
 _For more information on each method, see below:_
 
 .Injectables
 [%collapsible]
 ==== 
 Injectable estradiol comes in different forms, with each form releasing the estradiol into your body at a different rate - this rate is called a half-life. Shorter half lives require more frequent injections whereas longer half lives require slightly larger injections. The commonly available forms are:
+
 - *Estradiol valerate (EV):* half-life ~3 days, inject every 5 days
+
 - *Estradiol Cypionate (EC):* half-life ~7 days, inject every 7 days
+
 - *Estradiol Enanthate's (EEn):* half-life ~5 days, inject every 7-10 days 
+
+
+//TODO explain IM vs SubQ
+
+//TODO explain needle safety no reuse etc
 
 Injectables are not available on the NHS or private care in the UK, but are readily available both on the grey market and made by homebrewers.
 ====
@@ -59,14 +96,18 @@ Implants are pellets inserted into the fat layer beneath the skin that slowly re
 The primary purpose of stickies is that they can be made incredibly easily from pills - the vase majority of people should be able to turn pills into stickies, but are released slower and directly into the bloodstream. This allows pills to be more cost effective (up to 10x cheaper from the same pills) and safer. They are placed in the mouth (pushed against a gum) and slowly release estradiol into the bloodstream, generally over a period of between 12-24 hours depending on thickness. This relies on not eating or drinking for an hour after applying them (application occurs once per day). Whilst stickies are only available through homebrewers (and we're not even aware of any homebrewers selling stickies, just individuals distributing to their networks), they can very easily be produced at home from pills (available from the NHS, private care, or the grey market) with normal household equipment.
 ====
 
-====== Pills
-
+.Pills
+[%collapsible]
+====
 IMPORTANT: Do *NOT* attempt to use birth control pills to medically transition. These tend to contain Ethinylestradiol (alongside a progestrin), which is not the same as the 17β estradiol that HRT contains. Whilst there may be some feminising effect from birth control pills, the amounts you would have to take to get your hormones to appropriate levels has a significant risk to your health. It's not hard to buy genuine HRT. Do that instead. Please. 
 
-*Sublingual/buccal*
+Pills are generally either estradiol valerate or estradiol hemihydrate, brand names Elleste, Zumenon and Progynova. Generally a dose will be between 1-3 pills, taken once or twice a day. Pills generally have either 1 or 2 mg of estradiol in them. Pills are available on the NHS, privately and through the grey market. *However, we would not recommend taking pills orally (ie swallowing them), as this means they pass through the liver their potency is reduced, increasing the risk of side effects.* Either turn your pills into stickies (see above) or take them sublingually or buccally.
 
+*Sublingual/buccal method*
+Taking pills <<sublingually>> or <<buccally>> increases their potency and in doing so decreases the risk of side effects. Sublingual intake involves placing a pill under your tongue and leaving it there to dissolve, whilst buccal intake refers to place a pill between the inside of the cheek and a gum - both a very similar in terms of results. As the estradiol goes into the bloodstream quicker as well as more effectively, a lower dose must be taken more frequently - at least three times a day.
+====
 ====== A note on non-bioidentical estrogens
 
-Birth control pills tend to contain ethinylestradiol, which is an estrogen, just not _the_ estrogen you want. It's non-bioidentical, meaning that it merely mimics the effects of estrogen in the body. These have a signficantly increased blood clot risk compared to bioidentical estrogens. *Do not take them.* The only possible benefit from taking non-bioidentical applies only to people who had blocked some of their puberty - where the only measured effect is a small but statistically significant decrease in height (~2.1cm) when 100-200µg ethinylestradiol (significantly more than in a standard birth control pill but without progestrin) compared to standard estradiol treatment.
+Birth control pills tend to contain ethinylestradiol, which is an estrogen, just not _the_ estrogen you want. It's non-bioidentical, meaning that it merely mimics the effects of estrogen in the body. These have a signficantly increased blood clot risk compared to bioidentical estrogens. *Do not take them.* Another non-bioidentical estrogren is conjugated estrogen - brand name Preamarin, which carries with it similar risks. *Do not take this either.* The only possible benefit from taking non-bioidentical applies only to people who had blocked some of their puberty - where the only measured effect is a small but statistically significant decrease in height (~2.1cm) when 100-200µg ethinylestradiol (significantly more than in a standard birth control pill but without progestrin) compared to standard estradiol treatment.
 
 ===== Dosing
