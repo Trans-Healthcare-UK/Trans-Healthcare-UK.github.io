@@ -34,6 +34,7 @@ include::Fem/Hormones/hair.adoc[]
 
 include::Fem/Hormones/nonstandard.adoc[]
 
+include::Fem/Hormones/sourcing.adoc[]
 
 //Endmatter
 

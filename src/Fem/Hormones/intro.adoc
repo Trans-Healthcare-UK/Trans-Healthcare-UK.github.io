@@ -60,10 +60,12 @@ As previously mentioned, a standard feminising transition will attempt to provid
 
 The target levels you want to aim for are:
 
-- *Testosterone (T):* 30 - 50 ng/dL
-- *Estradiol (E2):* 100 - 200 pg/mL
+- *Testosterone (T):* 30 - 50 ng/dL (100 - 175 nmol/L)
+- *Estradiol (E2):* 100 - 250 pg/mL (350 - 900 pmol/L)
 
-To increase your testosterone levels, reduce your blocker dosage. To decrease your testosterone levels, increase your blocker dosage. To increase your estradiol levels, increase your estrogen dosage. To decrease your estradiol levels, decrease your estrogen dosage.
+//TODO mathsy units symbols
+
+Your results may be given to you in different units - conversions are available for https://unitslab.com/node/136[testosterone] and https://unitslab.com/node/113[estradiol].
 
 ====== How to alter your dosage to ensure you fall inside these ranges
 
@@ -81,7 +83,7 @@ If you're only taking estrogen (<<monotherapy>>):
 - To increase your estradiol levels, increase your estrogen dosage. 
 - To decrease your estradiol levels, decrease your estrogen dosage.
 
-====== Blood tests
+===== Blood tests
 
 
 [WARNING]
@@ -92,26 +94,11 @@ The information in this section is specific to the UK and may not apply elsewher
 
 It is useful (but not crucial) to get your blood levels checked before going on HRT to find your baseline. Your GP is supposed to offer you blood tests if you tell them that you are planning on DIYing HRT - but they may not. As a minimum, you want to test your T and E2 levels, but it may also be useful to get other tests (especially prolactin and liver function) to monitor any potential side effects of HRT - speak to a doctor if your results are outside of normal levels. See https://diyhrt.wiki/bloodtests[this list of potentially useful blood tests for more information.] If your GP says no, then private blood tests are available - and you want to find the same things as you'd find from your GP.
 
-When taking a test, ensure that you haven't taken any vitamin supplements in the previous three days or so, and take your blood tests at a <<trough>> - immeadiately before you take your hormones (this is especially important if you inject on a weekly or longer basis)
+When taking a test, ensure that you haven't taken any vitamin supplements in the previous three days or so, and take your blood tests at a <<trough>> - immeadiately before you take your hormones (this is especially important if you inject on a weekly or longer basis).
+
+//TODO what if no blood test
 
 
-===== Approaches
+==== Approaches
 
-There are a variety of ways to reach the desired hormone levels, and generally consist of taking estrogen and sometimes a testosterone blocker. In high enough doses, estrogen is often successful in supressing testosterone levels to within the target range. This is called <<monotherapy>>.
-
-====== Estrogen
-
-There are various approaches to taking estrogen. We would recommend injections or gel as the best routes if possible. If you have no choice but pills, we'd reccomend using the pills to produce stickies or taking sublingually or if this isn't possible taking sublingually. All these approaches mean the estrogen bypasses the liver, making for a safer _and_ more effective transition
-
-====== Injectables
-
-====== Gel
-
-====== Patches
-
-====== Implants
-
-====== Stickies
-
-====== Pills
-
+There are a variety of ways to reach the desired hormone levels, and generally consist of taking estrogen and sometimes a testosterone blocker. In high enough doses, estrogen is often successful in supressing testosterone levels to within the target range. This is called <<monotherapy>>. For most transfems, we'd recommend starting with gel or injectable monotherapy if possible, and only introducing blockers if your testosterone levels are outside the target range when your estradiol levels are high (>225 ng/mL).
