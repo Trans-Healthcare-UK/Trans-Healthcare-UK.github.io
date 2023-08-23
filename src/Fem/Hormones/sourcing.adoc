@@ -2,6 +2,42 @@
 
 ===== Homebrew
 
+====== Recipies
+
+*Stickies:* Stickies can be made very easily from estradiol pills. A full recipe https://stickies.neocities.org/stickies[is available here.] Stickies are used more widely than this guide suggests, and we know multiple people who have successfully used this recipe. They are safe and effective.
+
+*Injectables:* producing both injectables and gel relies on buying raw estrogen powder from overseas (generally China). Test this if possible, or if this is not possible use trusted suppliers that others have tested. Below there is a list of tested suppliers. To test yourself XXXXXXX. The other ingredients and equipment for both can be bought on Amazon/eBay/Aliexpress/chemicals suppliers or possibly nicked from a lab if you have access to one of those. See below for instructions on how to make injectables on a small (batches of a few vials at a time, useful for yourself or a small group) or medium (batches of 20-50 vials at a time, useful for larger scale homebrew networks) scale.
+//TODO explain how to test - both rough home tests and where to get commercial testing
+
+Small Scale Production::
+    * https://manufacturedbytyger.com/Tyger_Small_Guide.pdf[Recipe link]
+    * https://web.archive.org/web/20230812121345/https://manufacturedbytyger.com/Tyger_Small_Guide.pdf[Archive link (if the above doesn't work)]
+Medium Scale Production::
+    * https://manufacturedbytyger.com/Tyger_Medium_Guide.pdf[Recipe link]
+    * https://web.archive.org/web/20230812121350/https://manufacturedbytyger.com/Tyger_Medium_Guide.pdf[Archive link (if the above doesn't work)]
+Tested Suppliers:: in progress
+//TODO fill this in
+
+*Gel:* gel reuires the same raws as injectables, see above for more info on this. Similarly to injectables, the other ingredients can be easily accquired. There are plenty of slightly different but similar recipes available online (many on https://www.reddit.com/r/estrogel/wiki/index/#wiki_d_-_generic_estradiol_gel_from_scratch[the r/estrogel wiki]) - try to ensure the result has actually been tested. The recipe below is adapted from https://www.reddit.com/r/estrogel/comments/zxc49u/estrogel_guide_looking_for_feedback/[this Reddit post,] and produces a product essentially identical to commercially available estrogel (although stronger) and has been successfully tested and shown to produce the expected changes in hormone levels. Many recipes available online include penetration enhancers - these help the skin to better absorb the estrogen and as such can increase the absorption of estrogen through the skin meaning that a lower dose is needed for the same result. Whilst the recipe below doesn't include them, that's not a stance against them, they can be useful for some people (although some can make the gel slightly irritant). If access to pharmaceutical ingredients other than estradiol is a difficulty, estrogel can also be produced from raw powder mixed with hand sanitiser. This is referred to as plan A, and a very basic recipe is 0.12g estradiol disolved in ethanol if possible and then mixed with 100ml of hand sanitiser, but more recipies are available elsewhere, including the aforementioned wiki.
+
+.Recipe
+[%collapsible%open]
+====
+****
+
+The measurements below produce 400ml of gel - to increase or decrease the final product volume, change all measurements proportionally.
+
+IMPORTANT: gel requires the use of raw 17β-estradiol (Cas 50-28-2) as opposed to an ester such as estradiol valerate. This is because these esters don't absorb through the skin well.
+
+TIP: If you don't have access to 63% Isopropyl alchohol it can be made by mixing stronger Isopropyl (eg 70%, 99.9%) with distilled water such that the overall concentration is 63%. The amount of water to use is given by the formula XXXX. Distilled water can be bought but https://www.wikihow.com/Make-Distilled-Water[can also be produced in the home.] Using boiled tap water will also produce water that is safe to use, but depending on impurities in the water there is a risk that it will intefere with the gel and may reduce the shelf life.
+
+//TODO write formula
+
+*Ingredients:*
+. 17β-estradiol 
+****
+====
+
 ===== NHS
 
 //TODO note guidelines about BMI <40
