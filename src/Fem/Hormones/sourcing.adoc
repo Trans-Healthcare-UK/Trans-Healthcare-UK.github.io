@@ -40,27 +40,46 @@ TIP: If you don't have access to 63% Isopropyl alchohol it can be made by mixing
 //TODO write formula
 
 *Ingredients:*
+
 * 17β-estradiol - 0.80g
+
 * 63% Isopropyl alcohol - 395ml
+
 * Carbomer 940 - 2.00g
+
 * Triethanolamine - 2.60g
 
+
 *Equipment:*
+
 * 500ml beaker
+
 * Digital mg scale
+
 * Small containers for weighing solids
+
 * 200ml syringe to fill bottles
+
 * 4x100ml airless pump bottles
 
 *Method:*
+
 . Prepare the alchohol if necessary by mixing stronger alchohol with distilled water
+
 . Add alchohol to beaker
+
 . Add estradiol, mix with a coffee frother util fully dissolved
+
 . Add carbomer, small amounts at a time, mixing throughout. Mix until smooth
+
 . Cap syringe and pour mixture in
+
 . Add triethanolamine to syringe and mix - should thicken rapidly
+
 . Squeeze mixture into bottle and put cap on bottle
+
 . Pump bottle until air stops coming out
+
 ****
 ====
 
@@ -68,7 +87,9 @@ TIP: If you don't have access to 63% Isopropyl alchohol it can be made by mixing
 
 //TODO note guidelines about BMI <40
 
-The "official" recommended route 
+The "official" recommended route for getting hormones in the UK is through a <<GIC>> - the main route to accessing trans healthcare for free (or nearly free - outside of Scotland prescriptions aren't usually free). A full guide to accessing GICs can be found here (_in progress_). GPs can (and should) also offer you briding prescriptions if you have been reffered (by them) to a GIC and you are accessing DIY HRT. A bridging prescription is your GP prescribing you HRT as opposed to the GIC prescribing to you. Just because they should doesn't mean they will, and in our experience the majority of GPs will not give you a briding prescription (but some of them will).
+
+//TODO write full thing about accsessing nhs care
 
 ===== Private
 
