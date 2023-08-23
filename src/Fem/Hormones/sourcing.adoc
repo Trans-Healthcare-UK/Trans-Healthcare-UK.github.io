@@ -4,7 +4,9 @@
 
 Homebrewed HRT is sometimes also referred to as bathtub estrogen - don't let this put you off. Homebrewing does not involve synthesising estrogen - homebrewers buy the same raw estrogen powder as is used to make commerical estrogen products - the homebrewing is just a process used to make this raw powder into something the body can actually take (such as injectables or gel). Some large scale homebrewers sell their hormones on the internet and ship across the coutry or the world - XXXX, but many homebrewing networks operate on a local scale of people producing usable estrogen for themselves and their community. These networks are crucial for many trans people, and we'd like to see them supported as fully as possible, and new networks forming is a good thing. To access these networks, we'd recommend hanging aroud with cool queer people. (seriously)
 
-Estrogen is not a controlled substance but it is a prescription only medicine. If you are producing you are essentially running an unlicensed pharmacy but we are not aware of any examples of homebrewers facing legal consequences for producing and distributing feminising HRT. In the UK it is legal to buy or possess prescription only medicines (such as estrogen) without a prescription for personal use, or for others in your household.
+Estrogen is not a controlled substance but it is a prescription only medicine. If you are producing you are essentially running an unlicensed pharmacy but we are not aware of any examples of homebrewers facing legal consequences for producing and distributing feminising HRT. In the UK it is legal to buy or possess prescription only medicines (such as estrogen) without a prescription for personal use, or for others in your household. 
+
+Homebrewing is not currently an option for blockers - but these can easily be sourced from the <<grey market>>. //TODO fix link
 
 //TODO add examples of homebrewers
 
@@ -87,10 +89,17 @@ TIP: If you don't have access to 63% Isopropyl alchohol it can be made by mixing
 
 //TODO note guidelines about BMI <40
 
-The "official" recommended route for getting hormones in the UK is through a <<GIC>> - the main route to accessing trans healthcare for free (or nearly free - outside of Scotland prescriptions aren't usually free). A full guide to accessing GICs can be found here (_in progress_). GPs can (and should) also offer you briding prescriptions if you have been reffered (by them) to a GIC and you are accessing DIY HRT. A bridging prescription is your GP prescribing you HRT as opposed to the GIC prescribing to you. Just because they should doesn't mean they will, and in our experience the majority of GPs will not give you a briding prescription (but some of them will).
+The "official" recommended route for getting hormones in the UK is through a <<GIC>> - the main route to accessing trans healthcare for free (or nearly free - outside of Scotland prescriptions aren't usually free). A full guide to accessing GICs can be found here (_in progress_). GPs can (and should) also offer you briding prescriptions if you have been reffered (by them) to a GIC and you are accessing DIY HRT. A bridging prescription is your GP prescribing you HRT as opposed to the GIC prescribing to you. Just because they should doesn't mean they will, and in our experience the majority of GPs will not give you a briding prescription (but some of them will). There are lists out there (_in progress_) of GP practices that are more likely to prescribe.
 
 //TODO write full thing about accsessing nhs care
+//TODO find and link lists
 
 ===== Private
 
+Private prescribers such as GenderGP and GenderCare are private clinics that provide trans healthcare. They are far more expensive than the NHS for long term use, but can often be used to obtain a shared care agreement with your GP, whereby the NHS provides blood tests and prescriptions whilst the private provider provides appointments. Like bridging prescriptions, not all GPs will provide shared care, although more offer shared care than do bridging prescriptions. If going down this route we'd recommend GenderCare, London Transgender Clinic or Harley Street Transgender Clinic, *not GenderGP - since it is generally harder to get shared care agreements through them.* It is difficult to switch between private providers, so if you think you can't afford the ongoing fees and private prescriptions, avoid GenderGP. If you can afford this however, GenderGP is less gatekeepy than other providers as they operate on more of an informed consent model so you may get hormones faster and through a slighly kinder process. For a more in depth guide see - _work in progress_
+
+//TODO full guide on private care
+
 ===== Grey Market
+
+Grey market drugs are produced in countries with looser pharmaceutical regulations such as India and China and sold over the counter there. These regulations don't make the drugs less safe, just mean that pharmacies can sell them to people without a prescription. When legitimate, they are exactly the same thing you'd get prescribed in the UK - often the only difference is which language the leaflet is written in. There are various online stores which these can be bought from. https://hrt.coffee/[hrt.coffee] maintains a list of trusted suppliers (note that it includes a few homebrewers such as otokonoko) selling estrogen, blockers, SERMs, finasteride and dutasteride.
