@@ -1,1 +1,17 @@
 ==== Non-standard Feminising HRT
+
+Most transfem HRT provision is highly binary. Not everyone wants this as a final result. Whilst HRT is not entirely a pick-and-mix affair of outcomes, the result can to some degree be customised. There are largely two places it is possible to do this - the genitals and the chest. When it comes to genitals, see <<blockers>> for more information - different blockers have different effects there. Whilst there is little to no evidence of ways to increase breast growth beyond that offered through standard HRT (see <<prog>> for more info), breast implants are a way to increase breast size. However, the effect of HRT on breast growth can be reduced (although not entirely eliminated) through the use of selective estrogen receptor modulators or SERMs.
+
+.Sciency Explanation
+[%collapsible]
+====
+****
+SERMs are estrogenic in parts of the body (the relevant SERMs are estrogenic almost everywhere) and anti-estrogenic elsewhere (the relevant SERMs are anti-estrogenic in the uterus - which transfems generally don't have - and the chest). They are chemicals that are broadly similar to estrogen in their structure, and so bind to estrogen receptors - and receptors in the body function slightly differently. Generally upon bidning to these receptors, they trigger the receptors in the same way an estrogen molecule would. However, when binding to a receptor in the parts of the body they where they are anti-estrogenic they do not trigger the receptor, but do still bind to it, blocking actual estrogen from binding and triggering the receptor, thus reducing the ability of estrogen to affect that area of the body. 
+****
+====
+
+SERMs are taken as pills and can be bought on the grey market. There is at least one peer-reviewed paper that recommends that doctors give SERMs to transfem patients who specifically request them (they are routinely prescribed for other uses such as breast cancer treatment), although we're not aware of any instance where this has been succsessful - but it's probably worth trying. SERMs generally increase testoterone levels, so monotherapy is not really an option and you will almost certainly need to take a blocker. We'd recommend starting off with 60mg of Raloxifene or XXXXmg of Tamoxifen (both available at stores linked on https://hrt.coffee[hrt.coffee]) alongside a recommended HRT regimen involving an anti-androgen and a slightly reduced inital estrogen dose, and adjusting as necessary. As SERMs are estrogenic, you won't need as high of an E2 level as you would do without them, but some is still likely neccessary.
+
+//TODO link paper
+//TODO find tamoxifene dose
+//TODO figure out bloods stuff
