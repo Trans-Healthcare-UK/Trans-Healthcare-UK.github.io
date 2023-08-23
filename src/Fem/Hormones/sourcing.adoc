@@ -25,7 +25,7 @@ Tested Suppliers:: in progress
 ====
 ****
 
-The measurements below produce 400ml of gel - to increase or decrease the final product volume, change all measurements proportionally.
+The measurements below produce 400ml of 0.2% gel (approximately 3x the strength of commercially available estrogel) - to increase or decrease the final product volume, change all measurements proportionally.
 
 IMPORTANT: gel requires the use of raw 17β-estradiol (Cas 50-28-2) as opposed to an ester such as estradiol valerate. This is because these esters don't absorb through the skin well.
 
@@ -35,6 +35,9 @@ TIP: If you don't have access to 63% Isopropyl alchohol it can be made by mixing
 
 *Ingredients:*
 . 17β-estradiol 
+. 63% Isopropyl alcohol
+. Carbomer 940
+. TriethanolamineTriethanolamine
 ****
 ====
 
