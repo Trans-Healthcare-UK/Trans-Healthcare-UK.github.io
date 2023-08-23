@@ -2,7 +2,13 @@
 
 ===== Homebrew
 
-====== Recipies
+Homebrewed HRT is sometimes also referred to as bathtub estrogen - don't let this put you off. Homebrewing does not involve synthesising estrogen - homebrewers buy the same raw estrogen powder as is used to make commerical estrogen products - the homebrewing is just a process used to make this raw powder into something the body can actually take (such as injectables or gel). Some large scale homebrewers sell their hormones on the internet and ship across the coutry or the world - XXXX, but many homebrewing networks operate on a local scale of people producing usable estrogen for themselves and their community. These networks are crucial for many trans people, and we'd like to see them supported as fully as possible, and new networks forming is a good thing. To access these networks, we'd recommend hanging aroud with cool queer people. (seriously)
+
+Estrogen is not a controlled substance but it is a prescription only medicine. If you are producing you are essentially running an unlicensed pharmacy but we are not aware of any examples of homebrewers facing legal consequences for producing and distributing feminising HRT. In the UK it is legal to buy or possess prescription only medicines (such as estrogen) without a prescription for personal use, or for others in your household.
+
+//TODO add examples of homebrewers
+
+===== Recipies
 
 *Stickies:* Stickies can be made very easily from estradiol pills. A full recipe https://stickies.neocities.org/stickies[is available here.] Stickies are used more widely than this guide suggests, and we know multiple people who have successfully used this recipe. They are safe and effective.
 
@@ -34,16 +40,35 @@ TIP: If you don't have access to 63% Isopropyl alchohol it can be made by mixing
 //TODO write formula
 
 *Ingredients:*
-. 17β-estradiol 
-. 63% Isopropyl alcohol
-. Carbomer 940
-. TriethanolamineTriethanolamine
+* 17β-estradiol - 0.80g
+* 63% Isopropyl alcohol - 395ml
+* Carbomer 940 - 2.00g
+* Triethanolamine - 2.60g
+
+*Equipment:*
+* 500ml beaker
+* Digital mg scale
+* Small containers for weighing solids
+* 200ml syringe to fill bottles
+* 4x100ml airless pump bottles
+
+*Method:*
+. Prepare the alchohol if necessary by mixing stronger alchohol with distilled water
+. Add alchohol to beaker
+. Add estradiol, mix with a coffee frother util fully dissolved
+. Add carbomer, small amounts at a time, mixing throughout. Mix until smooth
+. Cap syringe and pour mixture in
+. Add triethanolamine to syringe and mix - should thicken rapidly
+. Squeeze mixture into bottle and put cap on bottle
+. Pump bottle until air stops coming out
 ****
 ====
 
 ===== NHS
 
 //TODO note guidelines about BMI <40
+
+The "official" recommended route 
 
 ===== Private
 
