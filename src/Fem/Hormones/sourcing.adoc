@@ -35,13 +35,14 @@ Tested Suppliers:: in progress
 
 The measurements below produce 100ml of 0.2% gel (this means that there are 2mg of estradiol in 1g of gel approximately 3x the strength of commercially available estrogel) - to increase or decrease the final product volume, change all measurements proportionally.
 
-IMPORTANT: gel requires the use of raw 17β-estradiol (Cas 50-28-2) as opposed to an ester such as estradiol valerate. This is because these esters don't absorb through the skin well.
+IMPORTANT: Gel requires the use of raw 17β-estradiol (Cas 50-28-2) as opposed to an ester such as estradiol valerate. This is because these esters don't absorb through the skin well.
 
 TIP: If you don't have access to 63% Isopropyl alcohol (you probably won't) it can be made by mixing stronger Isopropyl (eg 70%, 99.9%) with distilled water such that the overall concentration is 63%. The amount of water to use can be found with https://www.omnicalculator.com/food/alcohol-dilution[this calculator]. Distilled water can be bought but https://www.wikihow.com/Make-Distilled-Water[can also be produced in the home.] Using boiled tap water will also produce water that is safe to use, but depending on impurities in the water there is a risk that it will intefere with the gel and may reduce the shelf life.
 
 //TODO explain why we make stronger gel
 //TODO explain differnce between grams and ml
-
+//todo explain pump bottles are dead expensive - where cheap/alternatives etc
+//todo do calcs for 70% and 99.9%
 *Ingredients:*
 
 * 17β-estradiol - 0.20g
