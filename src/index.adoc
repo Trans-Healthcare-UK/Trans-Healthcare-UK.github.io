@@ -18,6 +18,8 @@ include::General/contributing.adoc[]
 
 include::Masc/intro.adoc[]
 
+include::Masc/Hormones/intro.adoc[S]
+
 //Fem
 
 include::Fem/intro.adoc[]
