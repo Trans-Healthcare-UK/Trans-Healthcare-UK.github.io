@@ -1,0 +1,28 @@
+=== Hormones
+
+The majority of people undergoing a medical feminising transition will be attempting to alter the levels of various hormones in their body, or how the body responds to various hormones. The most important of these are <<testosterone>> and <<estrogen>>. <<HRT>>, or hormone replacement therapy, is the process of changing the levels of these hormones in the body. For most transmascs, the goal of HRT is to provide estrogen and testosterone levels roughly equivalent to those seen in cis men - the vast majority of cis people have at least some estrogen and some testosterone in their body. This is what changes your secondary sex characteristics to become more masculine. See the table below for a list of changes and their rough timescales, assuming a broadly standard masculising transition (permanency refers to whether changes will be reversed if HRT is stopped):
+
+.Feminising HRT Timescales
+[cols="<,^,^,<"]
+
+|===
+|Change | Onset Time | Time to Maximum Extent | Permanency
+
+|Facial/body hair growth | 6-12mo | 4-5y | _Mostly permanent_
+
+|Increased muscle mass | 6-12mo | 2-5y | _Reversible_
+
+|Fat redistribution | 1-6mo | 2-5y | _Reversible_
+
+|Voice deepening | 6-12mo | 1-2y | _Permanent_
+
+|Skin oiliness/acnefootnote:[Generally reduces over time, effect can be reduced with good skincare] | 1-6mo | 1-2y | _Reversible_
+
+|Scalp hair loss | 6-12mo | - | _Mostly permanent, treatment availablefootnote:[see finasteride]_
+//TODO working link etc
+
+|Periods stop | 1-6mo | - | _Reversible_
+
+|Increased appetite 2+| _unknown_ | _Reversible_
+
+|Mood changes (inc increased libido) 2+| _unknown_ | _Reversible_
