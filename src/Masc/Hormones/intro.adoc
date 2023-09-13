@@ -2,7 +2,7 @@
 
 The majority of people undergoing a medical feminising transition will be attempting to alter the levels of various hormones in their body, or how the body responds to various hormones. The most important of these are <<testosterone>> and <<estrogen>>. <<HRT>>, or hormone replacement therapy, is the process of changing the levels of these hormones in the body. For most transmascs, the goal of HRT is to provide estrogen and testosterone levels roughly equivalent to those seen in cis men - the vast majority of cis people have at least some estrogen and some testosterone in their body. This is what changes your secondary sex characteristics to become more masculine. See the table below for a list of changes and their rough timescales, assuming a broadly standard masculising transition (permanency refers to whether changes will be reversed if HRT is stopped):
 
-.Feminising HRT Timescales
+.Masculising HRT Timescales
 [cols="<,^,^,<"]
 
 |===
@@ -26,4 +26,6 @@ The majority of people undergoing a medical feminising transition will be attemp
 |Increased appetite 2+| _unknown_ | _Reversible_
 
 |Mood changes (inc increased libido) 2+| _unknown_ | _Reversible_
+
+|===
 
